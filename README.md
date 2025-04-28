@@ -51,9 +51,10 @@ Invert match and show line numbers.
 ## 📂 Project Structure
 
 ```
-/mygrep/
+/My-Personal-Grep-and-Service-Troubleshooting/
 ├── mygrep.sh
 ├── testfile.txt
+├── README.md
 └── screenshots/
     ├── mygrep_hello.png
     ├── mygrep_n_hello.png
